@@ -1,5 +1,4 @@
 *.csv
 api_key
 *.txt
-intercom_conversation_list.csv
 messages/
