@@ -1,4 +1,4 @@
-# Intercom Conversationd Exporter
+# Intercom Conversations Exporter
 
 These two Ruby programs gather the Intercom conversations and store
 their info in CSV files, and the message data as clean text files.
@@ -32,7 +32,9 @@ a conversation, and inside you will find CSV files with information
 about the conversation, and the text of each message stored in a text
 file.
 
-Copyright 2016 Filip Dimovski <rexich@riseup.net>
+## Copyright stuff
+
+Copyright 2016 Filip Dimovski
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
